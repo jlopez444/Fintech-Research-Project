@@ -31,6 +31,7 @@
 *One of Brightwell’s core focuses is Cross-Border Payments.  Cross-border payments are essential to fueling the global economy, with more than 1 billion people worldwide transmitting and receiving international money transfers. While there is high demand for cross-border remittance payments, there are many obstacles to achieving success in the domain.
 “Capitalizing on the international remittance market is full of complications — including costly and time-consuming licensing, compliance, product development, marketing, support, technological infrastructure, and risk management. As a result, traditional financial institutions and money transfer giants have long-dominated the cross-border payments market.” (https://www.cutoday.info/site/layout/set/print/Fresh-Today/Fintech-Moves-into-the-Remittance-Market) 2023
 Fintech companies, businesses, and startups have long desired to add global payments remittances to services offered. However, along with the advancement in innovation, there are challenges.
+
 •	Keeping up with ever evolving and varying compliance and regulatory
 •	Sourcing the right partner with necessary global connectivity and options
 •	Recruiting the right talent to build, integrate, and provide required long-term maintenance.
