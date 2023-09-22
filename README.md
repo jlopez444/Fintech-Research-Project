@@ -1,5 +1,5 @@
 # fintechhw1
-![alt text](brightwell)
+![alt text](brightwell.jpg)
 # Module 1 Challenge
 ### Unit 1 Homework Assignment: FinTech Case Study
 
