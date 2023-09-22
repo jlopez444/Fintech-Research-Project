@@ -6,7 +6,7 @@
 * Brightwell Payments
 
 # When was the company incorporated?
-* Founded in 2001 as a division of West Suburban Bank, the company was acquired by private-equity firm Navigation *Capital Partners in 2009 before being renamed Brightwell Payments’ headquarters are in Atlanta with satellite offices *in Chicago, Milwaukee and Miami. (www.brightwell.com/about) 2023
+* Founded in 2001 as a division of West Suburban Bank, the company was acquired by private-equity firm Navigation     Capital Partners in 2009 before being renamed Brightwell Payments’ headquarters are in Atlanta with satellite offices in Chicago, Milwaukee and Miami. (www.brightwell.com/about) 2023
 
 
 # Who are the founders of the company?
@@ -14,12 +14,12 @@
 
 
 # How did the idea for the company come about?
-* Searched, there was no information as to the beginning of Brightwell only that these services were initially provided *as a service, as part of a division of a West Suburban Bank.
+* Searched, there was no information as to the beginning of Brightwell only that these services were initially provided as a service, as part of a division of a West Suburban Bank.
 
 
 # How is the company funded? How much funding have they received?
 ### Funding
-*Brightwell provides marketing, design, distribution, and fulfillment services in support of payroll, general purpose *reloadable, loyalty, award and promotional programs.  With all the services they offer the annual revenue is about $17 *Million annually.
+*Brightwell provides marketing, design, distribution, and fulfillment services in support of payroll, general purpose reloadable, loyalty, award and promotional programs.  With all the services they offer the annual revenue is about $17 Million annually.
 
 ### Funding Received
 * Total funding received was about 2.6 billion dollars by Venture Atlanta, an investment capital firm.
