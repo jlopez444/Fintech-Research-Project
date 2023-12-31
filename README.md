@@ -1,7 +1,5 @@
-# fintechhw1
+# Fintech Research Project
 ![alt text](brightwelllogo.png)
-# Module 1 Challenge
-### Unit 1 Homework Assignment: FinTech Case Study
 
 # Name of company
 * Brightwell Payments
